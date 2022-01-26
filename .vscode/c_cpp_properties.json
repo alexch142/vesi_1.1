@@ -1,0 +1,30 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/Users/cg/Documents/Arduino/libraries/**",
+                "/Users/cg/Library/Arduino15/packages/arduino/tools/avr-gcc/4.9.2-atmel3.5.4-arduino2/avr/include/**",
+                "/Volumes/dopmac/App/Arduino.app",
+                "/Volumes/dopmac/ard_no/Arduino/libraries/**",
+                "/Volumes/dopmac/ard_no/Arduino/libraries",
+                "/Users/cg/Library/Arduino15"
+            ],
+            "defines": [],
+            "macFrameworkPath": [
+                "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks"
+            ],
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c11",
+            "cppStandard": "c++98",
+            "intelliSenseMode": "macos-clang-x64",
+            "browse": {
+                "path": [
+                    "/Users/cg/Documents/Arduino/libraries"
+                ]
+            }
+        }
+    ],
+    "version": 4
+}
